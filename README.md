@@ -15,4 +15,8 @@ Cárdenas Márquez, John Simth | Desarrollador
 
 ## Historias de usuario
 ### Historia de usuario del primer Sprint
+Prioridad | Identificador	Nombre (alias) | Descripción | Puntos de historia (días ideales) | Responsable
+------------ | ------------- | ------------ | ------------- | -------------
+1 | Cálculo de descuentos | Cómo tareador, necesito calcular los descuentos, con la finalidad de debitar de la remuneración del trabajador | 1 | JSCM
+
 ### Historia de usuario del Segundo Sprint
