@@ -2,7 +2,10 @@
 <img src="images/Presentacion%20PFC.png" width=500>
 
 ## Objetivo
-**Implementar** un aplicativo para calcular el sueldo a pagar de la Empresa Horizonte SAC.
+**Implementar** un aplicativo para calcular el sueldo a pagar de la Empresa Horizonte SAC
+## Estructuta del proyecto
+<img src="images/Diagrama%20HIPO%20Sueldo%20Horizonte.png" width=500>
+
 ### Equipo de desarrollo
 Apellidos y nombres | Rol
 ------------ | -------------
